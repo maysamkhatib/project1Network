@@ -158,7 +158,8 @@ h2{
   }
 }
  .blog-slider__content {
-   padding-right: 25px;
+   padding-right: 10%;
+   width: 100%;
 }
  @media screen and (max-width: 768px) {
    .blog-slider__content {
@@ -188,9 +189,10 @@ h2{
    font-size: 24px;
    font-weight: 700;
    color: #0d0925;
-   margin-bottom: 20px;
-   padding-left: 100px;
-   padding-top: 50px;
+   margin-bottom: 10%;
+   /*padding-left: 25%;
+   padding-top: 15%;*/
+   text-align: center;
 }
  .blog-slider__text {
    color: #4e4a67;
