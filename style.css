@@ -46,6 +46,7 @@ h2{
 }
  @media screen and (max-width: 768px) {
    .blog-slider {
+     padding-top: 20%;
      min-height: 500px;
      height: auto;
      margin: 180px auto;
