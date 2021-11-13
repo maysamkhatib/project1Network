@@ -196,9 +196,8 @@ h2{
    font-weight: 700;
    color: #0d0925;
    margin-bottom: 10%;
-   /*padding-left: 25%;*/
+   padding-left: 25%;
    padding-top: 15%;
-   /*text-align: center;*/
 }
  .blog-slider__text {
    color: #4e4a67;
